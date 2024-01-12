@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6884e9994dfe4f72b06c0495f9dbd544, type: 3}
+  m_Name: PlayerStaticData
+  m_EditorClassIdentifier: 
+  MaxHealth: 40
+  MaxHealthUpgradeValue: 10
+  MaxHealthPriceUpgrade: 6
+  RegenValue: 0
+  RegenUpgradeValue: 0.1
+  RegenPriceUpgrade: 7
+  DefenseValue: 0
+  DefenseUpgradeValue: 0.02
+  DefensePriceUpgrade: 2
+  ShootSpeedValue: 2
+  ShootSpeedUpgradeValue: 0.1
+  ShootSpeedPriceUpgrade: 7
+  DamageValue: 5
+  DamageUpgradeValue: 1
+  DamagePriceUpgrade: 4
+  AttackRangeValue: 0.5
+  AttackRangeUpgradeValue: 0.05
+  AttackRangePriceUpgrade: 8
