@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8cfb04f192145ccb8da029cc989438e, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  SceneKey: Main
+  Waves:
+  - _amountEnemies: 2
+  - _amountEnemies: 3
+  - _amountEnemies: 5
+  TimeBetweenWaves: 5
+  TimeBetweenSpawnEnemies: {x: 1, y: 2}
+  EnemySpawners:
+  - EnemyTypeId: 0
+    Position: {x: 3.9100003, y: 4.34, z: -0.16382925}
+  - EnemyTypeId: 0
+    Position: {x: -0.64, y: 5.67, z: -0.16382925}
+  - EnemyTypeId: 0
+    Position: {x: 4.06, y: -3.1, z: -0.16382925}
+  - EnemyTypeId: 0
+    Position: {x: -4.72, y: 1.42, z: -0.16382925}
+  - EnemyTypeId: 0
+    Position: {x: 0.42999995, y: -6.39, z: -0.16382925}
+  - EnemyTypeId: 0
+    Position: {x: -4.51, y: -2.5699997, z: -0.16382925}
